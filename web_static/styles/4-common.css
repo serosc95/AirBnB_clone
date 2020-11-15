@@ -1,0 +1,19 @@
+* {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+}
+body, html {
+    height: 100%;
+    position: relative;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
